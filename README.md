@@ -41,6 +41,9 @@ ________________________________________
 🔹 Add a reward system for sustainable waste disposal habits.
 🔹 Integrate with IoT sensors for real-time waste monitoring.
 ________________________________________
+![Uploading Screenshot_2025-02-28_135929[1].png…]()
+ml model accracy is 0.951
+________________________________________
 👨‍💻 Contributors
  Team Name – DATA DYNAMOS!!
 👤 Teammate 1 – Khyati Singh
